@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Ashwitha Chalka!
-- 👀 I’m curious about Artificial Intelligence
-- 🌱 I’m currently learning about Deep Learning models
+- 👀 I’m curious about Artificial Intelligence.
+- 🌱 I’m currently learning about Deep Learning models.
 - 📫 Reach me through chalkaashwitha97@gmail.com
 
 <!---
